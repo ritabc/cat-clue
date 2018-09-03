@@ -1,11 +1,14 @@
 # Cat Clue
-
 #### Epicodus: Ruby Course: Group Project Week of Jul 23rd - July 26
-
 #### Reese Glasscock, Nate Cottle, Annie Shin, Rita Bennett-Chew
 
 ## Description
 A recreation of the classic game 'Clue' using Ruby, Sinatra, and ActiveRecord
+
+#### [Click Here to Experience the Game](https://cat-clue.herokuapp.com/)
+
+## Goals
+* 4 human players will take turns to guess the details of the Murder
 
 ## Setup Requirements
 
@@ -25,10 +28,6 @@ A recreation of the classic game 'Clue' using Ruby, Sinatra, and ActiveRecord
 
 ## Database Schema
 ![image](https://user-images.githubusercontent.com/11031915/43095872-170dddaa-8e6c-11e8-946c-105e3b1ad153.png)
-
-## User Stories
-### MVP User Stories
-* Exactly 4 human players will take turns to guess the details of the Murder
 
 ## License
 
